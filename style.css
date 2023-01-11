@@ -1,0 +1,69 @@
+ /* *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+} 
+
+.toggle{
+   display: flex;
+   justify-content: center;
+
+}
+.btn button{
+    width: 12vw;
+    padding: 10px;
+    font-size: 17px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn button:hover{
+    color: rgba(247, 161, 63, 0.788);
+}
+
+.sign-in{
+   background-color: rgb(209, 178, 3);
+   color: white;
+   text-align: center;
+   padding: 9px;
+   border-radius: 5px;
+   margin: 5px;
+  
+}
+
+.items{
+    display: block;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+} */
+
+/* .none{
+    display: none;
+}
+
+.none{
+    display: block;
+} */
+
+#content{
+    display:none;
+}
+
+#content.sho{
+    display: block;
+}
+
+/* .area{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}   
+
+.button{
+    justify-content: center;
+    width: 10vw;
+} */
